@@ -1,0 +1,129 @@
+/* Homework-3 Stylesheet */
+
+html{
+    height: 100%;
+}
+
+body{
+    font-size: 22px;
+    height: 100%;
+	padding: 1px;
+	margin: 1%;
+}
+
+main {
+    height: 100%
+}
+
+header {
+    background-color: #B2B2B2;
+    background-image: url(../images/flywheel.jpg);
+    background-size: cover;
+    padding: 1px;
+}
+
+h1 {
+    color: #FFFFFF;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
+nav a{
+	display: inline-block;
+    background-color: rgba(255,255,255,0.2);
+    color: #000000;
+    margin: 4%;
+    width: 15%;
+    padding: 10px;
+    border-radius: 2px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.active {
+    background-color: #FFFFFF;
+}
+
+.left {
+    background-color: #777613;
+    display: inline-block;
+    float: left;
+    height: 100%;
+    margin: 0 auto;
+    width: 20%
+}
+
+.right {
+    display: inline-block;
+    padding: 1%;
+    width: 75%;
+}
+
+
+img {
+    display: block;
+    border: 1px solid #000000;
+    margin: 32px auto;
+    width: 80%;
+}
+
+/* Table stuffs */
+
+table {
+    font-family: sans-serif, arial;
+    width: 75%;
+    line-height: 150%;
+    margin: 100px;
+    border-spacing: 2px;
+    -webkit-border-radius: 15px 15px 0 0;
+    border-radius: 15px 15px 0 0;
+    border-bottom-width: 5px;
+}
+
+/* Table Heading */
+
+table th {
+    background: #4d6600; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#86b300,#4d6600); /*Safari 5.1-6*/
+    background: -o-linear-gradient(#86b300,#4d6600); /*Opera 11.1-12*/
+    background: -moz-linear-gradient(#86b300,#4d6600); /*Fx 3.6-15*/
+    background: linear-gradient(#86b300,#4d6600); /*Standard*/
+    color: #FFFFFF;
+    width: 15px;
+    height: 50px;
+    border-radius: 5px 5px 0 0;
+    border-bottom-width: 15px;    
+}
+
+/* Table Row */
+
+table tr {
+    opacity: .8;
+    border-spacing: 20px;
+}
+
+table tr:hover {
+    opacity: 1;
+}
+
+/* Aligning First column to the left */
+table td,th {
+    text-align: left;
+    padding-left: 15px;
+}
+
+/* Aligning rest columns to the center */
+table td+td,th+th {
+    text-align: center;
+}
+
+table td {
+    color: #666666;
+    background-color: #ebebe0;
+    height: 50px;
+    padding-left: 15px;
+    border-spacing: 20px;
+    border-radius: 2px;
+    text-shadow: 1px 1px #555555;
+}
