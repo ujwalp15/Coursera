@@ -1,7 +1,7 @@
 <h1 align="center">Web Design for Everybody Specialization</h1>
 <h3 align="center">Learn to Design and Create Websites</h3>
 <p align="center">
-  Build a responsive and accessible web portfolio using HTML5, CSS3, and JavaScript
+  Build a responsive and accessible web portfolio using HTML5, CSS3, and JavaScrip
 </p>
 ## About This Specialization
 
@@ -9,11 +9,11 @@ This Specialization covers how to write syntactically correct HTML5 and CSS3, an
 
 ## Courses
 
-- [Introduction to HTML5](#introduction-to-html5)
-- [Introduction to CSS3](#introduction-to-css3)
-- [Interactivity with JavaScript](#interactivity-with-JavaScript)
-- [Advanced Styling with Responsive Design](#advanced-styling-with-responsive-design)
-- [Web Design for Everybody Capstone](#web-design-for-everybody-capstone)
+- [Introduction to HTML5](#https://www.coursera.org/learn/html)
+- [Introduction to CSS3](#https://www.coursera.org/learn/introcss)
+- [Interactivity with JavaScript](#https://www.coursera.org/learn/javascript)
+- [Advanced Styling with Responsive Design](#https://www.coursera.org/learn/responsivedesign)
+- [Web Design for Everybody Capstone](#https://www.coursera.org/learn/web-design-project)
 
 ## Introduction to HTML5
 
