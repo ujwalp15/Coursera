@@ -9,11 +9,11 @@ This Specialization covers how to write syntactically correct HTML5 and CSS3, an
 
 ## Courses
 
-- [Introduction to HTML5](#https://www.coursera.org/learn/html)
-- [Introduction to CSS3](#https://www.coursera.org/learn/introcss)
-- [Interactivity with JavaScript](#https://www.coursera.org/learn/javascript)
-- [Advanced Styling with Responsive Design](#https://www.coursera.org/learn/responsivedesign)
-- [Web Design for Everybody Capstone](#https://www.coursera.org/learn/web-design-project)
+- [Introduction to HTML5](https://www.coursera.org/learn/html)
+- [Introduction to CSS3](https://www.coursera.org/learn/introcss)
+- [Interactivity with JavaScript](https://www.coursera.org/learn/javascript)
+- [Advanced Styling with Responsive Design](https://www.coursera.org/learn/responsivedesign)
+- [Web Design for Everybody Capstone](https://www.coursera.org/learn/web-design-project)
 
 ## Introduction to HTML5
 
